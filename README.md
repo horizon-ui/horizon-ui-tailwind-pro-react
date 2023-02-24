@@ -1,4 +1,4 @@
-# [Horizon UI Tailwind CSS React PRO](https://horizon-ui.com/tailwind-react-pro/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20UI%20Tailwind%20React%20PRO,%20the%20trendiest%20Premium%20admin%20dashboard%20template%20for%20%23tailwindcss%20and%20%23react!%0A%0Ahttps%3A//horizon-ui.com/pro%20)
+# [Horizon UI Tailwind CSS React PRO](https://horizon-ui.com/horizon-tailwind-react-pro/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20UI%20Tailwind%20React%20PRO,%20the%20trendiest%20Premium%20admin%20dashboard%20template%20for%20%23tailwindcss%20and%20%23react!%0A%0Ahttps%3A//horizon-ui.com/pro%20)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-tailwind-react-pro.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-tailwind-react-pro/issues?q=is%3Aopen+is%3Aissue)
@@ -18,7 +18,7 @@ With Horizon UI Tailwind CSS React PRO you will find many examples for pages lik
 
 <p>&nbsp;</p>
 
-[<img alt="Horizon UI Tailwind CSS React PRO" src="https://i.ibb.co/YyLXWtv/horizon-ui-pro-tailwind.png" /> ](https://github.com/horizon-ui/horizon-tailwind-react-pro)
+[<img alt="Horizon UI Tailwind CSS React PRO" src="https://i.ibb.co/YyLXWtv/horizon-ui-pro-tailwind.png" /> ](https://horizon-ui.com/horizon-tailwind-react-pro)
 
 <p>&nbsp;</p>
 
@@ -51,7 +51,7 @@ npm start
 
 ### Example Pages
 
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project. View <a href="https://horizon-ui.com/tailwind-react-pro/?ref=readme-horizon-tailwind-react-pro" target="_blank">example pages here.</a>
+If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project. View <a href="https://horizon-ui.com/horizon-tailwind-react-pro/?ref=readme-horizon-tailwind-react-pro" target="_blank">example pages here.</a>
 
 ### Versions
 
@@ -70,7 +70,7 @@ some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
    Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/horizon-ui/horizon-tailwind-react-pro/blob/main/CHANGELOG.md?ref=readme-horizon-tailwind-react-pro).
+   [CHANGE LOG File](https://github.com/horizon-ui/horizon-ui-tailwind-pro-react/blob/main/CHANGELOG.md?ref=readme-horizon-tailwind-react-pro).
 2. Providing us reproducible steps for the issue will shorten the time it takes
    for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you
