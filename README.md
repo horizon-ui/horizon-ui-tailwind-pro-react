@@ -18,7 +18,7 @@ With Horizon UI Tailwind CSS React PRO you will find many examples for pages lik
 
 <p>&nbsp;</p>
 
-[<img alt="Horizon UI Tailwind CSS React PRO" src="https://i.ibb.co/YyLXWtv/horizon-ui-pro-tailwind.png" /> ](https://horizon-ui.com/horizon-tailwind-react-pro)
+[<img alt="Horizon UI Tailwind CSS React PRO" src="https://i.ibb.co/d0cVzKB/horizon-ui-pro-tailwind.png" /> ](https://horizon-ui.com/horizon-tailwind-react-pro)
 
 <p>&nbsp;</p>
 
@@ -57,7 +57,7 @@ If you want to get inspiration or just show something directly to your clients, 
 
 | Free Version                                                                                                       | PRO Version                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon UI Tailwind CSS React](https://i.ibb.co/1zhBQ2J/horizon-ui-tailwind-2.png)](https://www.horizon-ui.com/?ref=readme-horizon-tailwind-react-pro) | [![Horizon UI Tailwind CSS React PRO](https://i.ibb.co/YyLXWtv/horizon-ui-pro-tailwind.png)](https://www.horizon-ui.com/pro?ref=readme-horizon-tailwind-react-pro) |
+| [![Horizon UI Tailwind CSS React](https://i.ibb.co/1zhBQ2J/horizon-ui-tailwind-2.png)](https://www.horizon-ui.com/?ref=readme-horizon-tailwind-react-pro) | [![Horizon UI Tailwind CSS React PRO](https://i.ibb.co/d0cVzKB/horizon-ui-pro-tailwind.png)](https://www.horizon-ui.com/pro?ref=readme-horizon-tailwind-react-pro) |
 
 ### Figma Version
 
