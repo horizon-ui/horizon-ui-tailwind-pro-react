@@ -1,6 +1,6 @@
 # [Horizon UI Tailwind CSS React PRO](https://horizon-ui.com/horizon-tailwind-react-pro/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20UI%20Tailwind%20React%20PRO,%20the%20trendiest%20Premium%20admin%20dashboard%20template%20for%20%23tailwindcss%20and%20%23react!%0A%0Ahttps%3A//horizon-ui.com/pro%20)
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg)
+![version](https://img.shields.io/badge/version-2.1.0-blue.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-tailwind-pro-react.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-tailwind-react-pro/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/horizon-ui/horizon-ui-tailwind-pro-react.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-tailwind-react-pro/issues?q=is%3Aissue+is%3Aclosed)
 
