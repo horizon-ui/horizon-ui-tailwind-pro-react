@@ -19,4 +19,4 @@
 
 ### Original Release
 
-- Added Tailwind CSS as base framework
+- Added Tailwind CSS as the base framework
