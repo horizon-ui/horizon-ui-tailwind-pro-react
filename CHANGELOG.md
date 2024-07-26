@@ -1,3 +1,8 @@
+## [2.2.0] 2024-07-26
+
+### React tables updated to Tanstack V8
+### RTL Fixed
+
 ## [2.1.0] 2023-10-23 
 ### Kanban fully updated
 - 🟢 Added the new Kanban  
